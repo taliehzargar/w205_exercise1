@@ -1,0 +1,1 @@
+esult_highest_variability_in_procedure = sqlContext.sql('SELECT ABS(min(score)-max(score)) AS A1, MeasureID FROM Procedure GROUP BY MeasureID ORDER BY A1 DESC')

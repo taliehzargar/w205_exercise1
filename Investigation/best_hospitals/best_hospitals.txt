@@ -1,0 +1,52 @@
+By getting average of the score for each Hospital and then sorting the average score the list below shows the Hospitals that have the highest average score
+
+Best Average score per Provider ID
+A1                 ProviderID   Hospital Name                                 State 
+235.58333333333334 450348       FALLS COMMUNITY HOSPITAL AND CLINIC           TX
+175.33333333333334 51335        BEAR VALLEY COMMUNITY HOSPITAL                CA
+167.25             400079       HOSP COMUNITARIO BUEN SAMARITANO              PR
+137.0              670090       CRESCENT MEDICAL CENTER LANCASTER             TX
+136.0              451330       MEDINA REGIONAL HOSPITAL                      TX
+134.81578947368422 310002       NEWARK BETH ISRAEL MEDICAL CENTER             NJ
+130.33333333333334 51318        CARRINGTON HEALTH CENTER                      ND
+130.21052631578948 400032       HOSPITAL HERMANOS MELENDEZ INC                PR
+128.0              261317       MERCY HOSPITAL CASSVILLE                      MO
+127.66666666666667 331316       COMMUNITY MEMORIAL HOSPITAL, INC              NY
+125.33333333333333 511313       BOONE MEMORIAL HOSPITAL                       WV
+125.25             400013       HOSPITAL MENONITA DE CAYEY                    PR
+124.0              490144       NOVANT HEALTH HAYMARKET MEDICAL CENTER        VA
+123.7              140068       ROSELAND COMMUNITY HOSPITAL                   IL
+123.66666666666667 140300       PROVIDENT HOSPITAL OF CHICAGO                 IL
+123.42857142857143 50138        KAISER FOUNDATION HOSPITAL - LOS ANGELES      CA
+123.1951219512195  330202       KINGS COUNTY HOSPITAL CENTER                  NY
+122.8              341311       CHATHAM HOSPITAL INC                          NC
+121.43333333333334 210002       UNIVERSITY OF MARYLAND MEDICAL CENTER         MD
+121.16666666666667 51304        TALLAHATCHIE CRITICAL ACCESS HOSPITAL         MS
+
+The list below has the least variability in scores
+
+Least Variability in score per Provider ID
+
+A1  ProviderID
+0.0 201306
+0.0 351316
+0.0 511311
+0.0 441300
+0.0 171334
+0.0 161378
+0.0 440147
+0.0 41319
+0.0 61305
+0.0 351310
+0.0 06007F
+0.0 161373
+0.0 261329
+0.0 141326
+0.0 191323
+0.0 451321
+0.0 511300
+0.0 11304
+0.0 250081
+0.0 451337
+
+
