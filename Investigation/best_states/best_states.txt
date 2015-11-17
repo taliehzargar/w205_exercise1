@@ -1,0 +1,59 @@
+By getting average of the score for each state and then sorting the average score the list below shows the states that have the highest average score
+
+Best Average Scroe per State
+A1                 State
+102.87640449438203 DC
+102.29992348890589 MD
+101.25847457627118 DE
+98.46038151137198  NY
+98.23855120732723  NJ
+97.7799511002445   NV
+97.69823434991974  NH
+97.00291262135923  CT
+96.83011883888564  CA
+96.37579617834395  MA
+95.56912442396313  HI
+95.45833333333333  VI
+95.38815033645166  FL
+95.2612293144208   ME
+94.85314685314685  AK
+94.56592368719305  VA
+94.18518518518519  RI
+94.17039244908098  AZ
+94.03299689440993  PA
+93.91201201201201  NC
+
+The list below has the least variability in scores 
+
+Least Variability in score per State
+
+1.0  PR
+1.0  VI
+2.0  GU
+89.0 DC
+98.0 MA
+98.0 MN
+98.0 FL
+98.0 NE
+98.0 MD
+98.0 ME
+98.0 MI
+98.0 MO
+98.0 GA
+98.0 MS
+98.0 MT
+98.0 TN
+98.0 NC
+98.0 ND
+98.0 AK
+98.0 NH
+
+The best states are the states that are in both lists
+
+DC
+VI
+MA
+MD
+ME
+AK
+

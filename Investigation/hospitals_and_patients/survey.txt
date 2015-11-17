@@ -1,0 +1,51 @@
+Best Hospital per surveys
+
+ProviderID Basescore Consistencyscore    Hospital Name                             State
+10045      80        20                  ENGLEWOOD HOSPITAL AND MEDICAL CENTER     NJ
+40152      80        20                  REGIONAL ONE HEALTH                       TN
+100313     80        20                  SACRED HEART HOSPITAL ON THE GULF         FL
+110200     80        20                  NORTHSIDE MEDICAL CENTER                  GA
+170190     80        20                  MANHATTAN SURGICAL HOSPITAL LLC           KS
+180149     80        20                  WESTLAKE REGIONAL HOSPITAL                KY
+190241     80        20                  PHYSICIANS MEDICAL CENTER                 LA
+190259     80        20                  LAFAYETTE SURGICAL SPECIALTY HOSPITAL     LA
+190261     80        20                  OUACHITA COMMUNITY HOSPITAL               LA
+190263     80        20                  HEART HOSPITAL OF LAFAYETTE               LA
+190267     80        20                  FAIRWAY MEDICAL CENTER                    LA
+450834     80        20                  PHYSICIANS CENTRE,THE                     TX
+280131     80        20                  MIDWEST SURGICAL HOSPITAL LLC             NE
+360352     80        20                  SURGICAL HOSPITAL AT SOUTHWOODS           OH
+390316     80        20                  SURGICAL INSTITUTE OF READING             PA
+390323     80        20                  ADVANCED SURGICAL HOSPITAL                PA
+390324     80        20                  PHYSICIAN'S CARE SURGICAL HOSPITAL        PA
+430091     80        20                  BLACK HILLS SURGICAL HOSPITAL LLP         SD
+430092     80        20                  DAKOTA PLAINS SURGICAL CENTER LLP         SD
+450422     80        20                  BAYLOR MEDICAL CENTER AT UPTOWN            TX
+
+By getting average of the score for each Hospital and then sorting the average score the list below shows the Hospitals that have the highest average score
+
+Best Average score per Provider ID
+A1                 ProviderID   Hospital Name                                 State 
+235.58333333333334 450348       FALLS COMMUNITY HOSPITAL AND CLINIC           TX
+175.33333333333334 51335        BEAR VALLEY COMMUNITY HOSPITAL                CA
+167.25             400079       HOSP COMUNITARIO BUEN SAMARITANO              PR
+137.0              670090       CRESCENT MEDICAL CENTER LANCASTER             TX
+136.0              451330       MEDINA REGIONAL HOSPITAL                      TX
+134.81578947368422 310002       NEWARK BETH ISRAEL MEDICAL CENTER             NJ
+130.33333333333334 51318        CARRINGTON HEALTH CENTER                      ND
+130.21052631578948 400032       HOSPITAL HERMANOS MELENDEZ INC                PR
+128.0              261317       MERCY HOSPITAL CASSVILLE                      MO
+127.66666666666667 331316       COMMUNITY MEMORIAL HOSPITAL, INC              NY
+125.33333333333333 511313       BOONE MEMORIAL HOSPITAL                       WV
+125.25             400013       HOSPITAL MENONITA DE CAYEY                    PR
+124.0              490144       NOVANT HEALTH HAYMARKET MEDICAL CENTER        VA
+123.7              140068       ROSELAND COMMUNITY HOSPITAL                   IL
+123.66666666666667 140300       PROVIDENT HOSPITAL OF CHICAGO                 IL
+123.42857142857143 50138        KAISER FOUNDATION HOSPITAL - LOS ANGELES      CA
+123.1951219512195  330202       KINGS COUNTY HOSPITAL CENTER                  NY
+122.8              341311       CHATHAM HOSPITAL INC                          NC
+121.43333333333334 210002       UNIVERSITY OF MARYLAND MEDICAL CENTER         MD
+121.16666666666667 51304        TALLAHATCHIE CRITICAL ACCESS HOSPITAL         MS
+
+
+There seems that there is not a corelation between the hospitals that have best patient surveys and the hospital score, none of the hospitals with the highest scores are not listed in the hospitals with highest survey score

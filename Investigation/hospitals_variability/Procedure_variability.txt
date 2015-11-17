@@ -1,0 +1,25 @@
+The list below shows the procedures that has the most availability in all the hospitals  
+
+Highest Variability in Procedure
+
+A1   MeasureID
+98.0 ED_2b
+98.0 VTE_1
+98.0 VTE_5
+97.0 STK_4
+97.0 OP_20
+49.0 OP_1
+46.0 AMI_7a
+8.0  VTE_6
+8.0  OP_22
+8.0  OP_5
+8.0  PC_01
+8.0  OP_2
+3.0  OP_23
+3.0  ED_1b
+2.0  OP_3b
+1.0  SCIP_INF_1
+1.0  CAC_3
+1.0  SCIP_INF_9
+1.0  SCIP_INF_2
+1.0  AMI_2
